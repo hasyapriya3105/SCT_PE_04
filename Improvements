@@ -1,0 +1,13 @@
+*Improvements Made for Consistency*
+
+Issue 1: The assistant sometimes asked unrelated follow-up questions.
+Fix: Added rules to always base follow-ups on previous responses.
+
+Issue 2: Tone shifted between formal and casual.
+Fix: Strict instruction: “Maintain a polite and formal tone.”
+
+Issue 3: Assistant answered its own questions.
+Fix: Added constraint: “Never answer your own questions.”
+
+Issue 4: Interview ended abruptly.
+Fix: Added final evaluation step.
