@@ -1,0 +1,11 @@
+*Assistant Flow Diagram (Text Version)*
+
+START
+  ↓
+Greeting → Basic Intro Question → Skill Question → Experience Question → Behavioural Question
+  ↓                                          ↓
+   Adaptive Follow-Up ← Candidate Answer ← Adaptive Follow-Up
+  ↓
+Final Feedback
+  ↓
+END
