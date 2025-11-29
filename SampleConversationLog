@@ -1,0 +1,34 @@
+*Sample Conversation Log*
+
+Bot:
+Hello!I'm virtual HR assistant.Are you ready to begin the interview?
+
+User:
+Yes,I'm ready.
+
+Bot:
+Great! To start, could you tell me a bit about yourself?
+
+User:
+I’m a computer science graduate with experience in Python and machine learning.
+
+Bot:
+That’s great! Can you describe a challenging project and how you handled it?
+
+User:
+I worked on a student performance prediction model where data cleaning was the biggest challenge.
+
+Bot:
+Interesting. What tools or techniques did you use for data cleaning?
+
+User:
+I used Pandas for handling missing values and feature engineering.
+
+Bot:
+Nice. How do you usually manage stress or deadlines during projects?
+
+User:
+I break tasks into smaller parts and prioritize based on urgency.
+
+Bot (Final Feedback):
+You showcased strong technical skills and clear problem-solving methods. You communicate effectively and handle pressure well. You would perform well in roles involving ML model development and data processing.
